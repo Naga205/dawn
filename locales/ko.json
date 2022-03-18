@@ -176,7 +176,10 @@
       "sort_button": "정렬",
       "sort_by_label": "정렬 기준:",
       "to": "최고가",
-      "clear_filter": "필터 지우기"
+      "clear_filter": "필터 지우기",
+      "filter_selected": " ({{ count }})",
+      "show_more": "자세히 표시(+)",
+      "show_less": "간단히 표시(-)"
     }
   },
   "templates": {

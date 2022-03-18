@@ -184,7 +184,10 @@
         "few": "Št. izdelkov: {{ count }}",
         "two": "Št. izdelkov: {{ count }}"
       },
-      "clear_filter": "Počisti filter"
+      "clear_filter": "Počisti filter",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Prikaži več",
+      "show_less": "–Prikaži manj"
     }
   },
   "templates": {

@@ -176,7 +176,10 @@
       "sort_button": "排序",
       "sort_by_label": "排序依据：",
       "to": "到",
-      "clear_filter": "清除筛选条件"
+      "clear_filter": "清除筛选条件",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+显示更多",
+      "show_less": "-隐藏部分"
     }
   },
   "templates": {

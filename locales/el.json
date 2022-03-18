@@ -176,7 +176,10 @@
       "sort_button": "Ταξινόμηση",
       "sort_by_label": "Ταξινόμηση κατά:",
       "to": "Έως",
-      "clear_filter": "Διαγραφή φίλτρου"
+      "clear_filter": "Διαγραφή φίλτρου",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Εμφάνιση περισσότερων",
+      "show_less": "-Εμφάνιση λιγότερων"
     }
   },
   "templates": {

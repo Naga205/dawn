@@ -176,7 +176,10 @@
       "sort_button": "Sorteren",
       "sort_by_label": "Sorteer op:",
       "to": "Aan",
-      "clear_filter": "Filters wissen"
+      "clear_filter": "Filters wissen",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Meer weergeven",
+      "show_less": "-Minder weergeven"
     }
   },
   "templates": {

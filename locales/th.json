@@ -176,7 +176,10 @@
       "sort_button": "จัดเรียง",
       "sort_by_label": "เรียงตาม:",
       "to": "ไปยัง",
-      "clear_filter": "ล้างตัวกรอง"
+      "clear_filter": "ล้างตัวกรอง",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+แสดงเพิ่ม",
+      "show_less": "-แสดงน้อยลง"
     }
   },
   "templates": {

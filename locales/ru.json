@@ -184,7 +184,10 @@
         "few": "Продуктов: {{ count }}",
         "many": "Продуктов: {{ count }}"
       },
-      "clear_filter": "Удалить фильтр"
+      "clear_filter": "Удалить фильтр",
+      "filter_selected": " ({{ count }})",
+      "show_more": "Показать больше",
+      "show_less": "Показать меньше"
     }
   },
   "templates": {

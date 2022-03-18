@@ -184,7 +184,10 @@
         "few": "{{ count }} produkty(-ów)",
         "many": "{{ count }} produkty(-ów)"
       },
-      "clear_filter": "Wyczyść filtr"
+      "clear_filter": "Wyczyść filtr",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Pokaż więcej",
+      "show_less": "-Pokaż mniej"
     }
   },
   "templates": {

@@ -176,7 +176,10 @@
       "sort_button": "Lajittele",
       "sort_by_label": "Lajittelu:",
       "to": "Asti",
-      "clear_filter": "Tyhjennä suodatin"
+      "clear_filter": "Tyhjennä suodatin",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Näytä enemmän",
+      "show_less": "–Näytä vähemmän"
     }
   },
   "templates": {

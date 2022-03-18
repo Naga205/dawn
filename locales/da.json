@@ -176,7 +176,10 @@
       "sort_button": "Sortér",
       "sort_by_label": "Sortér efter:",
       "to": "Til",
-      "clear_filter": "Ryd filter"
+      "clear_filter": "Ryd filter",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Vis mere",
+      "show_less": "-Vis mindre"
     }
   },
   "templates": {

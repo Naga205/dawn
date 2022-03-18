@@ -180,7 +180,10 @@
         "other": "{{ count }} produse",
         "few": "{{ count }} produse"
       },
-      "clear_filter": "Elimină filtrul"
+      "clear_filter": "Elimină filtrul",
+      "filter_selected": " ({{ count }})",
+      "show_more": "Afișează mai mult",
+      "show_less": "Afișează mai puțin"
     }
   },
   "templates": {

@@ -184,7 +184,10 @@
         "few": "{{ count }} gaminiai (-ių)",
         "many": "{{ count }} gaminiai (-ių)"
       },
-      "clear_filter": "Išvalyti filtrą"
+      "clear_filter": "Išvalyti filtrą",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+Rodyti daugiau",
+      "show_less": "-Rodyti mažiau"
     }
   },
   "templates": {
