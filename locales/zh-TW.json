@@ -176,7 +176,10 @@
       "sort_button": "排序",
       "sort_by_label": "排序依據：",
       "to": "給",
-      "clear_filter": "清除篩選條件"
+      "clear_filter": "清除篩選條件",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+ 顯示更多內容",
+      "show_less": "- 顯示較少內容"
     }
   },
   "templates": {

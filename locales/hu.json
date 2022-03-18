@@ -176,7 +176,10 @@
       "sort_button": "Rendezés",
       "sort_by_label": "Rendezési szempont:",
       "to": "Eddig:",
-      "clear_filter": "Szűrő kikapcsolása"
+      "clear_filter": "Szűrő kikapcsolása",
+      "filter_selected": " ({{ count }})",
+      "show_more": "Több megjelenítése",
+      "show_less": "Kevesebb megjelenítése"
     }
   },
   "templates": {

@@ -184,7 +184,10 @@
         "few": "Počet produktů: {{ count }}",
         "many": "Počet produktů: {{ count }}"
       },
-      "clear_filter": "Vymazat filtr"
+      "clear_filter": "Vymazat filtr",
+      "filter_selected": " ({{ count }})",
+      "show_more": "+ Zobrazit více",
+      "show_less": "- Zobrazit méně"
     }
   },
   "templates": {
